@@ -1,2 +1,2 @@
-# Singleton
-Three ways to create singleton in Java
+# Map
+Map data structure in Java
